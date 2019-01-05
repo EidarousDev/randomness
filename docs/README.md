@@ -10,7 +10,7 @@
 
 ## Ads integration
 
-![Ads integration](img/ads.gif)
+![Ads integration](img/ads_integration.gif)
 
 
 ## Automated build-and-push
