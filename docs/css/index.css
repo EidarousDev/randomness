@@ -2,7 +2,7 @@ span {
     display: inline-block;
     min-width: 100px;
     min-height: 100px;
-    background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' fill='none' stroke-linecap='round' r='25' stroke-width='5' stroke='%233be8b0' stroke-dasharray='39.269908169872416 39.269908169872416'%3E%3CanimateTransform attributeName='transform' type='rotate' calcMode='spline' values='0 50 50;360 50 50' keyTimes='0;1' dur='1s' begin='0s' repeatCount='indefinite'/%3E%3C/circle%3E%3C/svg%3E") no-repeat;
+    background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' fill='none' stroke-linecap='round' r='25' stroke-width='5' stroke='%233be8b0' stroke-dasharray='39.269908169872416 39.269908169872416'%3E%3CanimateTransform attributeName='transform' type='rotate' calcMode='linear' values='0 50 50;360 50 50' keyTimes='0;1' dur='1s' begin='0s' repeatCount='indefinite'/%3E%3C/circle%3E%3C/svg%3E") no-repeat;
 }
 
 /*noinspection CssUnusedSymbol*/
